@@ -1,7 +1,7 @@
 # 🎨 Generative Adversarial Network — Goodfellow et al. (2014)
 
 > A faithful PyTorch implementation of the original GAN paper, trained on MNIST from scratch.  
-> **[📄 Paper](https://arxiv.org/abs/1406.2661)** · **[🤗 Live Demo](https://huggingface.co/spaces/YOUR_USERNAME/gan-mnist)** · **[📊 W&B Report](https://wandb.ai/YOUR_USERNAME/gan-mnist)**
+> **[📄 Paper](https://arxiv.org/abs/1406.2661)** · **[🤗 Live Demo](https://huggingface.co/spaces/aiwithadarsh/gan-mnist)** · **[📊 W&B Report](https://wandb.ai/aiwithadarsh/gan-mnist)**
 
 ![Generated MNIST digits](gan_output/final_samples.png)
 
@@ -173,7 +173,7 @@ MIT — use this however you like.
 ---
 
 <p align="center">
-  Built by <a href="https://github.com/YOUR_USERNAME">YOUR NAME</a> · 
-  <a href="https://huggingface.co/spaces/YOUR_USERNAME/gan-mnist">Live Demo</a> · 
-  <a href="https://linkedin.com/in/YOUR_USERNAME">LinkedIn</a>
+  Built by <a href="https://github.com/IdealAdarsh9">Adarsh Singh</a> · 
+  <a href="https://huggingface.co/spaces/aiwithadarsh/gan-mnist">Live Demo</a> · 
+  <a href="[https://linkedin.com/in/](https://www.linkedin.com/in/adarsh-singh-5847a2290/)">LinkedIn</a>
 </p>
